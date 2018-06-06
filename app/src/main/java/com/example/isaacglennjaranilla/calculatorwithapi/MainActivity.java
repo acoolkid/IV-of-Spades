@@ -20,6 +20,10 @@ public class MainActivity extends AppCompatActivity {
                 i = new Intent(this,Calculator.class);
                 startActivity(i);
                 break;
+            case R.id.btnCurrency:
+                i = new Intent(this,Currency.class);
+                startActivity(i);
+                break;
         }
 
     }

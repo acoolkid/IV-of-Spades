@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".Calculator" />
-        <activity android:name=".About"></activity>
+        <activity android:name=".About" />
+        <activity android:name=".Currency"></activity>
     </application>
 
 </manifest>
